@@ -50,7 +50,7 @@ The dataset contains **303 employee records** with the following fields:
 4. Gender distribution.
 5. Marital status distribution.
 6. Average employee salary.
-7. Top 10 highest-paid employees.
+7. Top 5 highest-paid employees.
 8. Top 10 lowest-paid employees.
 9. Average salary by department.
 10. Highest salary by department.
@@ -82,15 +82,15 @@ The dataset contains **303 employee records** with the following fields:
 ### Average Salary by Department
 ![Average Salary](screenshots/Average_Salary_By_Department.png)
 
-### Top 10 Highest Paid Employees
-![Top 10 Highest Paid](screenshots/Top_10_Highest_Paid.png)
+### Top 5 Highest Paid Employees
+![Top 5 Highest Paid](screenshots/Top_5_Highest_Paid.png)
 
 
 ### Recruitment Source Analysis
 ![Recruitment Source](screenshots/Recruitment_Source_Analysis.png)
 
 ### Salary Ranking by Department
-![Salary Ranking](screenshots/Salary_Ranking.png)
+![Salary Ranking](screenshots/Salary_Ranking_Within_Department.png)
 
 ## Key Insights
 - The workforce is distributed across multiple departments with varying employee counts.
@@ -109,7 +109,7 @@ HR-Analytics-SQL-Project/
 └── screenshots/
     ├── Department_Distribution.png
     ├── Average_Salary_By_Department.png
-    ├── Top_10_Highest_Paid.png
+    ├── Top_5_Highest_Paid.png
     ├── Recruitment_Source_Analysis.png
     └── Salary_Ranking.png
 
