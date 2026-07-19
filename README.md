@@ -77,20 +77,20 @@ The dataset contains **303 employee records** with the following fields:
 
 # Project Preview
 ### Employee Distribution by Department
-![Department Distribution](screenshots/Department_Distribution.png)
+![Department Distribution](Screenshots/Department_Distribution.png)
 
 ### Average Salary by Department
-![Average Salary](screenshots/Average_Salary_By_Department.png)
+![Average Salary](Screenshots/Average_Salary_By_Department.png)
 
 ### Top 5 Highest Paid Employees
-![Top 5 Highest Paid](screenshots/Top_5_Highest_Paid.png)
+![Top 5 Highest Paid](Screenshots/Top_5_Highest_Paid.png)
 
 
 ### Recruitment Source Analysis
-![Recruitment Source](screenshots/Recruitment_Source_Analysis.png)
+![Recruitment Source](Screenshots/Recruitment_Source_Analysis.png)
 
 ### Salary Ranking by Department
-![Salary Ranking](screenshots/Salary_Ranking_Within_Department.png)
+![Salary Ranking](Screenshots/Salary_Ranking_Within_Department.png)
 
 ## Key Insights
 - The workforce is distributed across multiple departments with varying employee counts.
